@@ -19,7 +19,7 @@ con <- dbConnect(MariaDB(),
                  host="www.talmedos.com",
                  dbname="superliga2",
                  user="dalremote",
-                 password="OttoRehagel123456789Long2026!")
+                 password="kode")
 
 # Trin 2 - Opret dataframe i R, direkte fra dataen i MySQL.
 # Trin 2.1 - Opret en vektor der indeholder MySQL koden, der skal bruges til at oprette en dataframe for superligaen (24/25):
