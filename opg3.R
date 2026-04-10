@@ -21,7 +21,7 @@ con <- dbConnect(MariaDB(),
                  host="www.talmedos.com",
                  dbname="superliga2",
                  user="dalremote",
-                 password="OttoRehagel123456789Long2026!")
+                 password="kode")
 
 # Trin 3 - Lav MySQL kode for nyeste sæson i Superligaen:
 sql_passes <- "
